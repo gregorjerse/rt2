@@ -1,1 +1,1 @@
-pip install --verbose dionysus matplotlib diode
+pip install --verbose dionysus matplotlib scipy
