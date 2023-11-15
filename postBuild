@@ -1,1 +1,1 @@
-pip install --verbose dionysus
+pip install --verbose dionysus matplotlib
