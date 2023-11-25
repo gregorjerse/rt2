@@ -1,3 +1,4 @@
 libboost-all-dev
 build-essential
+libcgal-dev
 cmake
